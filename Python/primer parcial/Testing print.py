@@ -1,0 +1,5 @@
+print('hola mundo')
+print ('I am Danna Ibarra Ortiz')
+print ('Im in 9c')
+print ('My favorite color is white, green aqua or purple')
+print ('terminee')
